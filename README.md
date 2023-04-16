@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![giphy-dinogg-AC](https://user-images.githubusercontent.com/105564051/232283394-ba75b37b-ff68-4469-bf21-16aa1cdf3569.gif)
+
+![Dino_non-birthday_versiongg](https://user-images.githubusercontent.com/105564051/232283469-75b7271d-574e-44cf-a1ee-65b651905a74.gif)
