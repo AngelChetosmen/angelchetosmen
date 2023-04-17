@@ -6,7 +6,7 @@
 
 ![Super-Mario-Brosgg](https://user-images.githubusercontent.com/105564051/232283602-eb2089e2-10e9-4a7d-8645-e30040b3b8fd.gif)
 
-
+I am : Developer | Student ESCOM | Transcriber and a good cowoker  
 Skills: HTML / CSS/ JS /  Apache NetBeans /  MySQL & SQL / C / C++ and More :D
 
 - 🔭 I´m currently learning and practicing Web Development. 
