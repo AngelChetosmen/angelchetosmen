@@ -18,4 +18,10 @@ Skills: HTML / CSS/ JS /  Apache NetBeans /  MySQL & SQL / C / C++ and More :D
 - ⚡ Fun fact: Not all my time is 100% working. In my free time, I love living and enjoying landscapes with my loved ones 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/joseangel.vegareyes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jose.angelvega .You can follow me and talk to me :)/)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/joseangel.vegareyes)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jose.angelvega)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AngelChetosmen)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](www.youtube.com/@AestheticJJOfficialChannel)
+[![Personal & Professional Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-personal-website.com)
+
+You can follow me and talk to me :)
